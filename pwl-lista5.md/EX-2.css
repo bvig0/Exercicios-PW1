@@ -1,0 +1,25 @@
+.home{
+    color: darkolivegreen;
+}
+
+.sobre{
+    color: blueviolet;
+    
+}
+
+.sobre:hover{
+    background-color: blue;
+    color: white;
+}
+
+.contato{
+    color: blue;
+}
+:visited.contato{
+    color: yellow;
+}
+
+/*
+Não consegui fazer o visited.
+*/
+
