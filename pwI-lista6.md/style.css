@@ -119,6 +119,9 @@ header {
     background-color: #edebeb;
 }
 
+.contact h2{
+    margin-bottom: 20px;
+}
 form{
     width: 600px;
     margin: 0 auto;
